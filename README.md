@@ -7,7 +7,7 @@ Imports [Less hat](http://lesshat.com/) mixins before your custom Less code.
 
 Install..
 
-Notice require Less v3.2.1 (download from github)
+requires Less v2.4.0
 
 ```
 npm install -g less-plugin-lesshat
